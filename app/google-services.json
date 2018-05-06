@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "601245141578",
+    "firebase_url": "https://assuitandsharmnativeapp.firebaseio.com",
+    "project_id": "assuitandsharmnativeapp",
+    "storage_bucket": "assuitandsharmnativeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601245141578:android:e20462577b45102e",
+        "android_client_info": {
+          "package_name": "com.app.smart.notordinarysharmandassuit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601245141578-v4kkivn0v703q85fjqjb3pk60m9nuh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4i62hCKswblss4e9GVVsG8L8Z326E6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
